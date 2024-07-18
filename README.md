@@ -45,7 +45,8 @@ Ensures all necessary Go dependencies are installed and up to date.
 
 3. Build and Run Your VM: Execute the following command to build and run your custom VM locally,
 ```
-MODE="run-single" ./scripts/run.sh
+MODE="run-single"
+./scripts/run.sh
 ```
 This command initializes your custom blockchain network with the specified configurations and prepares it for interaction.
 
