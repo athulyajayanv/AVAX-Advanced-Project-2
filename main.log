@@ -1,0 +1,30 @@
+[07-10|23:00:24.333] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[07-10|23:00:25.340] INFO client/client.go:139 start
+[07-10|23:01:11.896] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[07-10|23:01:12.900] INFO client/client.go:139 start
+[07-10|23:04:25.769] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[07-10|23:04:26.773] INFO client/client.go:139 start
+[07-10|23:06:25.368] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[07-10|23:06:26.372] INFO client/client.go:139 start
+[07-10|23:07:40.988] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[07-10|23:07:41.992] INFO client/client.go:139 start
+[07-13|17:56:36.025] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[07-13|17:56:37.029] INFO client/client.go:139 start
+[07-13|17:56:38.758] INFO client/client.go:148 create blockchains
+[07-13|17:57:58.098] INFO client/client.go:181 status
+[07-17|18:36:00.446] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[07-17|18:36:01.450] INFO client/client.go:139 start
+[07-17|18:36:03.104] INFO client/client.go:148 create blockchains
+[07-17|18:37:18.240] INFO client/client.go:181 status
+[07-17|19:07:27.809] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[07-17|19:07:28.813] INFO client/client.go:139 start
+[07-17|19:07:29.856] INFO client/client.go:148 create blockchains
+[07-17|19:08:45.117] INFO client/client.go:181 status
+[07-18|21:36:19.613] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[07-18|21:36:20.617] INFO client/client.go:139 start
+[07-18|21:36:21.625] INFO client/client.go:148 create blockchains
+[07-18|21:37:47.086] INFO client/client.go:181 status
+[07-18|21:57:49.168] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[07-18|21:57:50.172] INFO client/client.go:139 start
+[07-18|21:57:51.191] INFO client/client.go:148 create blockchains
+[07-18|21:59:16.077] INFO client/client.go:181 status
